@@ -92,3 +92,18 @@ best_score = alpha_beta(
 
 print("\nBest evaluation score:", best_score)
 print("Best move is selected by MAX player.")
+
+
+
+
+*OUTPUT*
+
+====================================
+ Alpha-Beta Pruning for Chess Game
+ Adversarial Search
+====================================
+Branch pruned at MAX node
+Branch pruned at MAX node
+
+Best evaluation score: 5
+Best move is selected by MAX player.
